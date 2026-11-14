@@ -35,7 +35,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyDeAQXRFRubulqtgwIHsmLW5SX5ofR_bi0",
   authDomain: "oceania-2a6ea.firebaseapp.com",
   projectId: "oceania-2a6ea",
-  storageBucket: oceania-2a6ea.firebasestorage.app",
+  storageBucket: "oceania-2a6ea.firebasestorage.app",
   messagingSenderId: "921927011720",
   appId: "1:921927011720:web:60bdedf9b57eda7d27be3d"
 };
